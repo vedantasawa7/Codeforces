@@ -1,1 +1,2 @@
-Codeforces Contest wise question answer 
+Codeforces Contest wise Code solution 
+
