@@ -1,0 +1,1 @@
+{"name":"Local: 950_1st","url":"d:\\Software\\Codeforces\\Round_950_DIV3\\950_1st.cpp","tests":[{"id":1717425339265,"input":"3\n10 1\nBGECDCBDED\n10 2\nBGECDCBDED\n9 1\nBBCDEFFGG","output":"2\n5\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Software\\Codeforces\\Round_950_DIV3\\950_1st.cpp","group":"local","local":true}
