@@ -1,0 +1,1 @@
+{"name":"Local: 953_1st","url":"d:\\Software\\Codeforces\\Round_953_DIV2\\953_1st.cpp","tests":[{"id":1718529515489,"input":"5\n2\n1 1\n4\n2 3 3 1\n5\n2 2 3 2 2\n2\n10 3\n3\n1 2 3\n","output":"2\n4\n5\n13\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Software\\Codeforces\\Round_953_DIV2\\953_1st.cpp","group":"local","local":true}

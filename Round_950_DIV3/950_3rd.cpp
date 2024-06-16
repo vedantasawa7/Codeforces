@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std ; 
 
+// not correct solution made some mistake while reading questions
 int main(){
     ios_base::sync_with_stdio(false) ;
     cin.tie(NULL) ;
