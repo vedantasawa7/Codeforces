@@ -8,17 +8,24 @@ int main(){
     cin.tie(NULL) ;
     cout.tie(NULL) ;
 
-    ll t ; 
+    int t ; 
     cin>>t ; 
 
     while(t--){
-        ll n ; 
-        cin>>n ; 
-        
-        vector<ll>a(n) ; 
-        for(ll i=0 ; i<n ; i++){
-            cin>>a[i] ; 
+        ll n,m,k ; 
+        cin>>n>>m>>k ;
+
+        for(int i=n ; i > m ; i--){
+            cout<<i<<" " ; 
         }
+
+        for(int i=1 ; i<=m ; i++){
+            cout<<i<<" " ;
+        }
+
+        cout<<endl ; 
+        
+        
 
 
 
