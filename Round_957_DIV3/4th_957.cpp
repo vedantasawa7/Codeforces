@@ -38,7 +38,7 @@ int main(){
                 }
             }
         }
-3
+
         if(w > k){
             cout<<"NO"<<endl ; 
             continue ; 
