@@ -1,0 +1,1 @@
+{"name":"Local: 3rd_168","url":"d:\\Software\\Codeforces\\Round_168_DIV2\\3rd_168.cpp","tests":[{"id":1722357151286,"input":"4\n6\n_(_)_)\n2\n_)\n8\n_)_)_)_)\n8\n_(_)_(_)\n","output":"5\n1\n4\n8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Software\\Codeforces\\Round_168_DIV2\\3rd_168.cpp","group":"local","local":true}
