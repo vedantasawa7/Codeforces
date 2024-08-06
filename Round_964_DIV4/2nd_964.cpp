@@ -21,10 +21,8 @@ int main(){
 
         sumeet.push_back({a1, b1, a2, b2}) ; 
         sumeet.push_back({a1, b2, a2, b1}) ;
-        sumeet.push_back({a2, b1, a1, b2}) ;
-        sumeet.push_back({a2, b2, a1, b1}) ;
 
-        for(int i=0 ; i<4 ; i++){
+        for(int i=0 ; i<2 ; i++){
             if(sumeet[i][0] > sumeet[i][1]  && sumeet[i][2] > sumeet[i][3]){
                 wins++ ; 
             }
@@ -38,7 +36,7 @@ int main(){
 
 
         
-        cout<<wins<<endl ; 
+        cout<<wins*2<<endl ; 
 
         
         
