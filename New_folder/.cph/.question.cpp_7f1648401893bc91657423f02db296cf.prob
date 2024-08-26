@@ -1,0 +1,1 @@
+{"name":"Local: question","url":"d:\\Software\\Codeforces\\New_folder\\question.cpp","tests":[{"id":1724246814190,"input":"5 \n1 4 2 6 9","output":"1"},{"id":1724246837121,"input":"5\n5 4 3 2 1 \n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Software\\Codeforces\\New_folder\\question.cpp","group":"local","local":true}
