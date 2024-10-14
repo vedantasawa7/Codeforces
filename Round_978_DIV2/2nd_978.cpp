@@ -57,10 +57,11 @@ int main(){
 
             ans += pau ; 
         }
+        
 
         
 
-        ans = max(ceil(new/x) , maxi) ; 
+        ans =(ll)max(ceil((double)net/x) ,(double) maxi) ; 
 
         cout<<ans<<"\n" ;
 
